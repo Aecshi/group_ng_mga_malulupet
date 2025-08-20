@@ -248,7 +248,7 @@
         }
 
         function calculate() {
-            let a = document.getElementById("answer").value
+            let a = document.getElementById("nsni").value
             let b = math.evaluate(a)
             document.getElementById("answer").value = b
         }
